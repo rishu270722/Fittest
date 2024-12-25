@@ -35,3 +35,11 @@ Fittest is a decentralized app that connects users with ideal trainers worldwide
 - **Blockchain**: Powered by the AIA Chain.  
 - **Smart Contracts**: Ensures secure and transparent agreements.  
 - **NFT Marketplace**: Built for trading fitness-related NFTs.  
+
+## Screenshots
+
+<img width="1440" alt="Screenshot 2024-12-25 at 8 28 54 PM" src="https://github.com/user-attachments/assets/0d7aae8e-2518-4757-8f90-d08184e33bcd" />
+<img width="1440" alt="Screenshot 2024-12-25 at 8 29 08 PM" src="https://github.com/user-attachments/assets/03d144c2-d0ca-41b9-aca5-87c5512c0301" />
+
+
+
