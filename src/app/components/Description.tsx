@@ -39,7 +39,7 @@ const Description = () => {
   const features = [
     {
       title: "Tokenized Training",
-      description: "Book sessions using MANTLE powered FIT tokens. Secure and transparent blockchain payments.",
+      description: "Book sessions using NEOX powered FIT tokens. Secure and transparent blockchain payments.",
       icon: Wallet,
       color: "purple"
     },
