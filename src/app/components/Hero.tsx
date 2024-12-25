@@ -67,7 +67,7 @@ const Hero = ({ scrollProgress }: HeroProps) => {
             className="text-gray-300 text-xl md:text-2xl mb-8"
           >
             Train with elite coaches using blockchain technology. 
-            Transform your fitness journey with MANTLE powered FIT tokens.
+            Transform your fitness journey with NEOX powered FIT tokens.
           </motion.p>
           <motion.div 
             variants={titleVariants}
